@@ -1,0 +1,838 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.20)  19 SEP 2017 13:40
+entering extended mode
+**C:/Users/AslakHammer/Documents/UNI/MIA/handin/rql599_MIA_ass1.tex
+(C:/Users/AslakHammer/Documents/UNI/MIA/handin/rql599_MIA_ass1.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrextend.sty"
+Package: scrextend 2015/10/03 v3.19a KOMA-Script package (extend other classes 
+with features of KOMA-Script classes)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrkbase.sty"
+Package: scrkbase 2015/10/03 v3.19a KOMA-Script package (KOMA-Script-dependent 
+basics and keyval usage)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrbase.sty"
+Package: scrbase 2015/10/03 v3.19a KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrlfile.sty"
+Package: scrlfile 2015/10/03 v3.19a KOMA-Script package (loading files)
+
+Package scrlfile, 2015/10/03 v3.19a KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+)))) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen103
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks17
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks18
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\preprint\fullpage.sty"
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip46
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks21
+\float@box=\box28
+\@float@everytoks=\toks22
+\@floatcapt=\box29
+)
+(C:\Users\AslakHammer\Documents\UNI\MIA\handin\rql599_MIA_ass1.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen114
+\scratchbox=\box30
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen115
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
+\everyMPtoPDFconversion=\toks24
+)
+Underfull \hbox (badness 10000) in paragraph at lines 25--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--46
+
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<task1.PNG, id=15, 526.3665pt x 407.72325pt>
+File: task1.PNG Graphic file (type png)
+ <use task1.PNG>
+Package pdftex.def Info: task1.PNG used on input line 49.
+(pdftex.def)             Requested size: 394.77391pt x 305.79167pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
+
+ []
+
+[2 <C:/Users/AslakHammer/Documents/UNI/MIA/handin/task1.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
+
+ []
+
+<task2a.PNG, id=22, 1015.3935pt x 529.98pt>
+File: task2a.PNG Graphic file (type png)
+ <use task2a.PNG>
+Package pdftex.def Info: task2a.PNG used on input line 79.
+(pdftex.def)             Requested size: 507.69551pt x 264.98933pt.
+
+Overfull \hbox (37.94049pt too wide) in paragraph at lines 79--80
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--87
+
+ []
+
+[3 <C:/Users/AslakHammer/Documents/UNI/MIA/handin/task2a.PNG>]
+<task2b.PNG, id=28, 283.0575pt x 215.00325pt>
+File: task2b.PNG Graphic file (type png)
+ <use task2b.PNG>
+Package pdftex.def Info: task2b.PNG used on input line 93.
+(pdftex.def)             Requested size: 283.0568pt x 215.00272pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--132
+
+ []
+
+[4 <C:/Users/AslakHammer/Documents/UNI/MIA/handin/task2b.PNG>]
+<Mammo.PNG, id=33, 364.36125pt x 442.65375pt>
+File: Mammo.PNG Graphic file (type png)
+ <use Mammo.PNG>
+Package pdftex.def Info: Mammo.PNG used on input line 142.
+(pdftex.def)             Requested size: 273.27026pt x 331.98949pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--144
+
+ []
+
+[5] <brain.PNG, id=37, 404.712pt x 443.85825pt>
+File: brain.PNG Graphic file (type png)
+ <use brain.PNG>
+Package pdftex.def Info: brain.PNG used on input line 149.
+(pdftex.def)             Requested size: 303.53325pt x 332.89285pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--151
+
+ []
+
+[6 <C:/Users/AslakHammer/Documents/UNI/MIA/handin/Mammo.PNG>] [7 <C:/Users/Asla
+kHammer/Documents/UNI/MIA/handin/brain.PNG>]
+<disc.PNG, id=47, 288.47775pt x 508.299pt>
+File: disc.PNG Graphic file (type png)
+ <use disc.PNG>
+Package pdftex.def Info: disc.PNG used on input line 160.
+(pdftex.def)             Requested size: 216.35777pt x 381.2233pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--162
+
+ []
+
+[8 <C:/Users/AslakHammer/Documents/UNI/MIA/handin/disc.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 165--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--171
+
+ []
+
+<Image2D.PNG, id=52, 237.88875pt x 250.536pt>
+File: Image2D.PNG Graphic file (type png)
+ <use Image2D.PNG>
+Package pdftex.def Info: Image2D.PNG used on input line 197.
+(pdftex.def)             Requested size: 237.88815pt x 250.53537pt.
+
+<image2D3D.PNG, id=53, 461.3235pt x 379.4175pt>
+File: image2D3D.PNG Graphic file (type png)
+ <use image2D3D.PNG>
+Package pdftex.def Info: image2D3D.PNG used on input line 204.
+(pdftex.def)             Requested size: 345.99178pt x 284.56242pt.
+ [9 <C:/Users/AslakHammer/Documents/UNI/MIA/handin/Image2D.PNG>]
+<ImgRotated.PNG, id=60, 545.6385pt x 414.348pt>
+File: ImgRotated.PNG Graphic file (type png)
+ <use ImgRotated.PNG>
+Package pdftex.def Info: ImgRotated.PNG used on input line 211.
+(pdftex.def)             Requested size: 409.22786pt x 310.76024pt.
+ [10 <C:/Users/AslakHammer/Documents/UNI/MIA/handin/image2D3D.PNG>]
+<projections1.png, id=65, 352.9185pt x 283.65974pt>
+File: projections1.png Graphic file (type png)
+ <use projections1.png>
+Package pdftex.def Info: projections1.png used on input line 224.
+(pdftex.def)             Requested size: 282.33517pt x 226.92809pt.
+
+<projections2.png, id=66, 351.714pt x 280.6485pt>
+File: projections2.png Graphic file (type png)
+ <use projections2.png>
+Package pdftex.def Info: projections2.png used on input line 225.
+(pdftex.def)             Requested size: 281.37158pt x 224.5191pt.
+
+<projections3.png, id=67, 349.90726pt x 281.25075pt>
+File: projections3.png Graphic file (type png)
+ <use projections3.png>
+Package pdftex.def Info: projections3.png used on input line 226.
+(pdftex.def)             Requested size: 279.92616pt x 225.00089pt.
+
+[11 <C:/Users/AslakHammer/Documents/UNI/MIA/handin/ImgRotated.PNG>]
+Overfull \vbox (92.01807pt too high) has occurred while \output is active []
+
+
+[12 <C:/Users/AslakHammer/Documents/UNI/MIA/handin/projections1.png> <C:/Users/
+AslakHammer/Documents/UNI/MIA/handin/projections2.png> <C:/Users/AslakHammer/Do
+cuments/UNI/MIA/handin/projections3.png>]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--251
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 254--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--274
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--274
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 282--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--298
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--298
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--298
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--298
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--298
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--298
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--298
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--298
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 300--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--311
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--311
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--311
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--318
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--318
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--318
+
+ []
+
+[16] (C:\Users\AslakHammer\Documents\UNI\MIA\handin\rql599_MIA_ass1.aux) ) 
+Here is how much of TeX's memory you used:
+ 2529 strings out of 493921
+ 35093 string characters out of 3147264
+ 111749 words of memory out of 3000000
+ 5806 multiletter control sequences out of 15000+200000
+ 10156 words of font info for 37 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 35i,8n,27p,1376b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on rql599_MIA_ass1.pdf (16 pages, 1338787 bytes).
+PDF statistics:
+ 151 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+
